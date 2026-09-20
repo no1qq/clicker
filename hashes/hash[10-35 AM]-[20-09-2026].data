@@ -1,0 +1,1 @@
+insert into blacklisted_builds (hash, notes) values ('e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', 'Build 2026-09-20 10:35 AM') on conflict (hash) do nothing;
