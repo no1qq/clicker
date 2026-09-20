@@ -1,5 +1,3 @@
-# zolsi.cc
-
 stealth autoclicker and input recorder written in c# (.net 9), compiled to native machine code via native aot. features stream-proof console rendering, low-level input hooks, anti-debug checks, and encrypted cloud profiles synced to supabase.
 
 ## requirements
